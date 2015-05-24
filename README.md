@@ -4,6 +4,8 @@
 
 Demo from Stockholm Xamarin User Group meeting 2015-05-20.
 
+The slides present SignalR and ModernHttpClient. Based on a slide deck from Brady Gaster from his TechEd Europe 2014 presentation.
+
 Shows how to use SignalR with two different servers. 
 
 The first server acts as a chat server, i.e. resends all incoming messages. Also has the ability to start and stop a timer.
